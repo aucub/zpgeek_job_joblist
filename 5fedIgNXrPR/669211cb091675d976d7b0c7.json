@@ -1,0 +1,67 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "5fedIgNXrPR",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "n6WF-1sAFa7HM-u1q2pg-P0mYB_CQ8MLaRXcnWIP8mWqCfRe1uP-_1WK9pOACXs7cksuZqBzYSbjvqWrFH7X65GB7So-Q3Jq3O4h43okK4XSCs5ZCFE~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220916/607f1f3d68754fd032af1119120d92d088ebeb4ab0b130dfc3ca836d2be91f45285383b22258f5aa_s.png",
+        "bossCert": 3,
+        "encryptBossId": "cbc1f9b2ef11c0c50nV43960GFA~",
+        "bossName": "王女士",
+        "bossTitle": "行政人事高级主管",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "0eca5825b69db5811HR_2dq-FlJS",
+        "expectId": 0,
+        "jobName": "it实习生/见习生",
+        "lid": "5fedIgNXrPR.search.61",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "企业内部IT技术支持"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "上海",
+        "areaDistrict": "宝山区",
+        "businessDistrict": "高境",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "a73c13d5eca967c41n1-0ti1GFo~",
+        "brandName": "国药纵恒",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "",
+        "brandIndustry": "批发/零售",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100503,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
