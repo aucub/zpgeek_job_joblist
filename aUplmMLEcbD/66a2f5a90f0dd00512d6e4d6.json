@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 241,
+    "filterString": "",
+    "lid": "aUplmMLEcbD",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "qS6SMy50L0k7g-G1rjZi6hwMDwlwnW2tiU59bYpUkFRBT17H9JncXKBQ--AsOqw4GckmaFtmSsXD7Izw7SOY81WBQzj55-6n1ZZF5myrweG-mpZpuHwPUIoLDPy7UswIOjGdvW6FGPtPQOS6xEn5mWM~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
+        "bossCert": 3,
+        "encryptBossId": "9b71a0ee3eb10ce50nR52N64EFNR",
+        "bossName": "王女士",
+        "bossTitle": "人事经理",
+        "goldHunter": 0,
+        "bossOnline": true,
+        "encryptJobId": "e395048bc9f472361XZ-09S-E1pU",
+        "expectId": 0,
+        "jobName": "诚聘家装设计师助理",
+        "lid": "aUplmMLEcbD.search.241",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "酷家乐",
+          "CAD"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "长沙",
+        "areaDistrict": "天心区",
+        "businessDistrict": "铁道",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 241,
+        "city": 101250100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "ca8d40aa445b41b733F_2di4EA~~",
+        "brandName": "千思筑家家居",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ba590dc1cfdf1a98dc8f59bb607651c1cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "装修装饰",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "定期体检",
+          "员工旅游",
+          "年终奖",
+          "带薪年假",
+          "全勤奖",
+          "通讯补贴",
+          "节日福利",
+          "零食下午茶",
+          "住房补贴"
+        ],
+        "industry": 100704,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 241,
+    "brandCard": null
+  }
+}
