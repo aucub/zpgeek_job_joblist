@@ -1,0 +1,80 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 121,
+    "filterString": "",
+    "lid": "9AysmFZ5XsD",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "M6q3FHzsQFqNz-x1Es7QjX_zF24WGJVWviSpreMD9ttMAvTchbW-HFWKK645domoRZjboM7aJezmUPBjc2W3M7uVu1wdjKdG-MBxN9-DnX0~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200601/24e1215b741d239c26e0decda2f7666c495e73b7a19a05642156d1ef39b98d0f_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "0afd0dd3a998ebf81nR-09i6",
+        "bossName": "俎女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "02ba2b11c19552671Hd42ti-FlNW",
+        "expectId": 0,
+        "jobName": "测试开发实习生(24 年春招)",
+        "lid": "9AysmFZ5XsD.search.121",
+        "salaryDesc": "3-6K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试",
+          "掌握软件测试理论和流程",
+          "软件开发经验"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "成都",
+        "areaDistrict": "双流区",
+        "businessDistrict": "华阳",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 121,
+        "city": 101270100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "3806a0c377c2b9f23nd42A~~",
+        "brandName": "Moka",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210727/b9c5ad9ff0e5819e8e4dc9595d79cef55074184b6fffb485eda4a69371db4b6f.jpg",
+        "brandStageName": "C轮",
+        "brandIndustry": "互联网",
+        "brandScaleName": "500-999人",
+        "welfareList": [
+          "交通补助",
+          "零食下午茶",
+          "定期体检",
+          "五险一金",
+          "补充医疗保险",
+          "带薪年假",
+          "员工旅游",
+          "节日福利",
+          "股票期权",
+          "年终奖"
+        ],
+        "industry": 100020,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 121,
+    "brandCard": null
+  }
+}
