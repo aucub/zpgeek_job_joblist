@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "9fK7zF2OBi5",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "o89uj2jjstkd0-O1xwuktL3P5KnxQXhakpDEiizUgyMqodW0Jgqc4sCE-dchk4wnQSQPfDik3D_38kWjtnx8833sRmklBQNobaW9hzgFHXmjvBLHpj7zSNpmNacslZcYLZWhsL7wSKhm",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191023/73a7d624031c4062f25ad2b14680a01e0621c98f4df1e3850b7a2ec9bb22e53b_s.png",
+        "bossCert": 3,
+        "encryptBossId": "73b288fa88ac9e320H1-3966GFc~",
+        "bossName": "李良飞",
+        "bossTitle": "项目工程师",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "44841d1196ecafdd1HV90928FVNW",
+        "expectId": 976209922,
+        "jobName": "初级软件工程师",
+        "lid": "9fK7zF2OBi5.search.61",
+        "salaryDesc": "3-5K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "C++",
+          "C",
+          "C#",
+          "QT",
+          "MySQL",
+          "上位机开发经验",
+          "数据库开发经验"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "深圳",
+        "areaDistrict": "龙华区",
+        "businessDistrict": "龙华",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "5e46e8af79ece0fc1HV60tW6GFc~",
+        "brandName": "贤文软件",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
