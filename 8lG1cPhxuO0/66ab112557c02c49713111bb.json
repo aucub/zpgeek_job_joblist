@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "8lG1cPhxuO0",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "3sQVwVZC_ny4p--1igGGxvw_GzZmYWJSTzCvbyhr-ajVA_-UDXv6pTbj_jTMYtLiYDemJ024c7Sl499xmGhWG_-tZ-mQZP3rj0VSBSozvAddqXjmud1-",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+        "bossCert": 3,
+        "encryptBossId": "22f38b13ae1347e60nd43dS0GFRU",
+        "bossName": "刘女士",
+        "bossTitle": "人事主管",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "44ce06728d5ae8c21HJ62Ny_E1NW",
+        "expectId": 0,
+        "jobName": "全栈开发实习生",
+        "lid": "8lG1cPhxuO0.search.1",
+        "salaryDesc": "2-4K",
+        "jobLabels": [
+          "在校/应届",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "全栈无侧重",
+          "Vue",
+          "Java",
+          "MySQL/Redis/MongoDB",
+          "全栈项目经验"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "成都",
+        "areaDistrict": "双流区",
+        "businessDistrict": "华阳",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101270100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "1928bcce24a973491Xx53dW4E1s~",
+        "brandName": "方田医创",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240523/7b5b554d84f9729c600b7ea392105e541fd1d5744f85216353b755e0353e596cb5bb7206a4ac1e0f.jpg.webp",
+        "brandStageName": "天使轮",
+        "brandIndustry": "医疗健康",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "交通补助",
+          "生日福利",
+          "年终奖",
+          "节日福利",
+          "带薪年假",
+          "补充医疗保险",
+          "绩效奖金",
+          "零食下午茶",
+          "定期体检",
+          "五险一金",
+          "团建聚餐"
+        ],
+        "industry": 100006,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

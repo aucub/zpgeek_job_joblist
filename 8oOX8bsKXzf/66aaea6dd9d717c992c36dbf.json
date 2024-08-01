@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "8oOX8bsKXzf",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "YDedqr6mb15rB-O1KusfYVj-6IRKYsOTJ08MHAb2UKwJxff1plbF1uVnnX79aEQ1xNa_kdcrBtwIzXVyEs773vZhklA1bQgXC18DEubHucFOeLY~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+        "bossCert": 3,
+        "encryptBossId": "9bd4582892e76b951XFz2t67E1U~",
+        "bossName": "安先生",
+        "bossTitle": "开发经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "ccc390e282765d1e331z29S0FFQ~",
+        "expectId": 0,
+        "jobName": "开发工程师",
+        "lid": "8oOX8bsKXzf.search.1",
+        "salaryDesc": "2-3K·16薪",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Java"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "北京",
+        "areaDistrict": "大兴区",
+        "businessDistrict": "亦庄",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "33e052361693f8371nF-3d25",
+        "brandName": "京东集团",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20191129/3cdf5ba2149e309b38868b62ae9c22cabe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "电子商务",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "节日福利",
+          "年终奖",
+          "免费班车",
+          "员工旅游",
+          "零食下午茶",
+          "股票期权",
+          "补充医疗保险",
+          "餐补",
+          "定期体检",
+          "包吃",
+          "交通补助",
+          "五险一金",
+          "带薪年假"
+        ],
+        "industry": 100001,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
