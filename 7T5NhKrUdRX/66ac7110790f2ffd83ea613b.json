@@ -1,0 +1,69 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "7T5NhKrUdRX",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "wnGd-aSDPb6iV-A1cAjeOHPU9y_F6XF12EKJXVOrRpbcdjYuE-jqEY4v5w4AuPJcAMCcIU2mLRG9roEFQLPYUzqWq8pakNDwpAswTUG3xLLyq2I4tK6j_OMv-tqcX8UmQ8-QniauWKE~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+        "bossCert": 3,
+        "encryptBossId": "9a2c1ee55aaf45ac1HJz2NS9FlU~",
+        "bossName": "王先生",
+        "bossTitle": "开发经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "5522128697a38b203n193dS1ElU~",
+        "expectId": 975728182,
+        "jobName": "java后端实习生",
+        "lid": "7T5NhKrUdRX.search.1",
+        "salaryDesc": "2-4K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Java",
+          "计算机软件",
+          "Eclipse"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "南京",
+        "areaDistrict": "浦口区",
+        "businessDistrict": "泰山",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "db1de4258115aa001nVy2tW-GFU~",
+        "brandName": "仆勾山科技有限公司",
+        "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+        "brandStageName": "",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
