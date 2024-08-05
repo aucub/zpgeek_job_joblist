@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "6CmJv2tw5ci",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "nj3GoFGpCOELQ-K1xldQ8beb4CBDSsioYMlQOZ6aORs10I0Mc0IsWAtoTOLUI07AwD_K4RdsXnCb0vuqjRCOfCZ9VqKtxzjjTTTLBPn3QzQsvZFh",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+        "bossCert": 3,
+        "encryptBossId": "39f8a613dd120a7e1XJ439u6FVs~",
+        "bossName": "陈先生",
+        "bossTitle": "招聘者",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "25ea1a990dc05d8d0nZz3t24FFI~",
+        "expectId": 0,
+        "jobName": "运维开发工程师",
+        "lid": "6CmJv2tw5ci.search.1",
+        "salaryDesc": "1-2K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Python",
+          "运维平台开发"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "北京",
+        "areaDistrict": "昌平区",
+        "businessDistrict": "天通苑",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "4e42c4752fc1b9551nB-0ti5EA~~",
+        "brandName": "贵迪",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180809/de7e83b32c2d4abe76ec860076aae69f1e9c97ac02767c10d0a70dccfbd7e70c.jpg",
+        "brandStageName": "天使轮",
+        "brandIndustry": "互联网",
+        "brandScaleName": "100-499人",
+        "welfareList": [],
+        "industry": 100020,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

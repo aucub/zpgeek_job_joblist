@@ -1,0 +1,72 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 121,
+    "filterString": "",
+    "lid": "73gxmnNgtNL",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "gasl-oaaKqECN-l1B0Ra_KS6UCfQw5YpVDHydXINydgpKqFtaCKQB19id67Jbx47UQ4cm-XKTkQPVIX8GmD4kPr5wpBgMVh1L0fknDGvSyirdSjGMj7gfcUdUKUyjXHv2rjC_y95imvLwuM~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240507/607f1f3d68754fd004d1c283546d62ff27b4508d655598a8495be119719d11d6f77769d62e3ecf89_s.png.webp",
+        "bossCert": 3,
+        "encryptBossId": "d8c11a439cc217380XR_09W8GVNU",
+        "bossName": "潘博",
+        "bossTitle": "人事",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "9c26f798024252a91HJ939m9FlZU",
+        "expectId": 1014042683,
+        "jobName": "初中级软件测试",
+        "lid": "73gxmnNgtNL.search.121",
+        "salaryDesc": "5-8K",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "上海",
+        "areaDistrict": "浦东新区",
+        "businessDistrict": "张江",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 121,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+        "brandName": "中电金信",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "B轮",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "节日福利",
+          "定期体检",
+          "补充医疗保险",
+          "五险一金"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 121,
+    "brandCard": null
+  }
+}

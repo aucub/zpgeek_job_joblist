@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 121,
+    "filterString": "",
+    "lid": "6yV2gRna0Su",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "GMU98EbWwKt43-31E5QrJYgq6J2GvjpNOMEfH92-po2dOVGqMoIyod8VAuzkRMVMlcACRRclCok21MxxYajsAjktponeegYUEDUbQjKGVn78BHbTCbY~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230602/607f1f3d68754fd0ae908cf0b8d1c78f9966e9df8aa605206d65c94fea80d8e2c9a9a31aac799f5a_s.png",
+        "bossCert": 3,
+        "encryptBossId": "da465561331b31eb1Xx82d69GFs~",
+        "bossName": "刘亚",
+        "bossTitle": "测试开发工程师",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "0bd50c87ef1d66a31HR43N2_ElpS",
+        "expectId": 0,
+        "jobName": "测试开发工程师-财富质量-郑州",
+        "lid": "6yV2gRna0Su.search.121",
+        "salaryDesc": "7-10K·16薪",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "不限",
+          "Java",
+          "计算机相关专业",
+          "测试工作经验",
+          "自动化测试经验",
+          "自动化测试"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "郑州",
+        "areaDistrict": "管城回族区",
+        "businessDistrict": "东建材",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 121,
+        "city": 101180100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "9aad97ce1cf643f71XR53tS5GFM~",
+        "brandName": "数字马力",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220223/7bf6f160950405e92fd452486b1839466771fdc1f7f43347a22e9d41cadcb59a2df7b125b1c42054.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "互联网",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "团建聚餐",
+          "餐补",
+          "交通补助",
+          "五险一金",
+          "节日福利",
+          "补充医疗保险",
+          "加班补助",
+          "年终奖",
+          "定期体检"
+        ],
+        "industry": 100020,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 121,
+    "brandCard": null
+  }
+}
