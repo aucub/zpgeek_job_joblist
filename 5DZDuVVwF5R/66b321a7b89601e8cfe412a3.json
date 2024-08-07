@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "5DZDuVVwF5R",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "n4IAw2GRtB8D4-i1fiWd5QPOdGKNniCkuL8TCRmDFwvNbeRuUAkr5GReRgeqbXyVzl78dzuXxsEpbXgDui-9MIiczxJQlMYr4cDdoPYX9_1s7BQYzvaxMlO18D8wUtZaNLktZgYUrA6EtswXiFfPfNEoDqIxY6rzqLx4z8i3ksg46g~~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+        "bossCert": 3,
+        "encryptBossId": "8aa51ddb0599415c0Hd-0tu_FA~~",
+        "bossName": "王文萍",
+        "bossTitle": "招聘",
+        "goldHunter": 0,
+        "bossOnline": true,
+        "encryptJobId": "ea0b5d68185c970f1HN-3961E1JY",
+        "expectId": 1014887466,
+        "jobName": "软件测试",
+        "lid": "5DZDuVVwF5R.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "在校/应届",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "南京",
+        "areaDistrict": "雨花台区",
+        "businessDistrict": "宁南",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "3c511ac83da009710XN409i5",
+        "brandName": "上海思芮",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "员工旅游",
+          "定期体检",
+          "补充医疗保险",
+          "交通补助",
+          "年终奖",
+          "五险一金",
+          "餐补",
+          "免费班车",
+          "节日福利",
+          "加班补助",
+          "带薪年假"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
