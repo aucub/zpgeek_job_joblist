@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "5aCWmn4MQbf",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "7tN7Ho3cFYEtv-31VgEZfnW7hntA7O3Snvzn7NKMh6g5nC71tFpMuheB0OczjACd_lU9MJLBmyuKWvdMmWPt2mPHqAr8MphlRWna4nmgXGWPZ5IQIvPssucbWPFiRqkztaYfpe47zRX9_de42XqI",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180816/345e1f4e924f660ab6c6d17024ffda0914ffb9689aa2e40f1c7dde0565fdf569_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "a1687725ea675d4303R62tW5F1Q~",
+        "bossName": "郭女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": true,
+        "encryptJobId": "c6c814044b79691f1HR-2t69GFJR",
+        "expectId": 0,
+        "jobName": "Test Develop Engineer",
+        "lid": "5aCWmn4MQbf.search.1",
+        "salaryDesc": "8-12K",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Python",
+          "Java",
+          "C++",
+          "计算机相关专业",
+          "测试工作经验",
+          "Bluetooth",
+          "嵌入式软件测试"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "深圳",
+        "areaDistrict": "南山区",
+        "businessDistrict": "蛇口",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "391e29eb0ce304cb1Xd63tW5",
+        "brandName": "微创软件",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/cc7c3877732130f7c5d1c238da0e0df65177a0ce9056aae91081a5b97ab14c45_s.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "带薪年假",
+          "五险一金",
+          "补充医疗保险",
+          "定期体检",
+          "节日福利",
+          "员工旅游",
+          "年终奖",
+          "免费班车",
+          "零食下午茶"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

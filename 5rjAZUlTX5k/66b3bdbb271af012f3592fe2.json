@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "5rjAZUlTX5k",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "o28OL6kEYLLyQ-51WzP3zhGIIrB40aUPw5ym3Lb8eZCqL2kayKWeHukLwoz7YNE5JKG-lddSJty_TouBS279QQTt8xt6AJL2OStFX4_kRgCrplRB8Q~~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200622/971113e2209038e78a12d92a115f524074cf2d5bc3405f2d52b31eaa2bfcde4a_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "9046da3d9c3d4e2b1HR53Nq6GVM~",
+        "bossName": "余女士",
+        "bossTitle": "人力资源专员",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "131345e2688ff81f1HJ40tq-GFNQ",
+        "expectId": 0,
+        "jobName": "初级IT开发工程师",
+        "lid": "5rjAZUlTX5k.search.1",
+        "salaryDesc": "7-12K·13薪",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "苏州",
+        "areaDistrict": "吴中区",
+        "businessDistrict": "李公堤",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190400,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "58bca7a37d9d854c33x43tm5GA~~",
+        "brandName": "特纳飞",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240607/7bf6f160950405e93d485c8bd8a46ba53701e4d66120424a74cf2d5bc3405f2d52b31eaa2bfcde4a.png.webp",
+        "brandStageName": "C轮",
+        "brandIndustry": "半导体/芯片",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "团建聚餐",
+          "股票期权",
+          "通讯补贴",
+          "住房补贴",
+          "交通补助",
+          "零食下午茶",
+          "带薪年假",
+          "五险一金",
+          "保底工资",
+          "补充医疗保险",
+          "年终奖",
+          "定期体检",
+          "绩效奖金"
+        ],
+        "industry": 101405,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
