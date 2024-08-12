@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "3HeuzbRFzcB",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "ppnXVw837yXb9--13gErOy-UO9X6BENaWu6epfzi85IPUFyeJ4zEMPDBpSv3ChZeBO-jdKbseoYA6K02wT4Ql0AOzOEd1J4TESHdYkk2aIiVhzTa",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230908/607f1f3d68754fd03d0d4d700a9794cfb5525cbce9db4f4c7b3d6cdf22f72e3bf4921bb621a3e2fa_s.jpg.webp",
+        "bossCert": 3,
+        "encryptBossId": "80d1bca95e1e17b11HRy3N-5GFY~",
+        "bossName": "仇女士",
+        "bossTitle": "人力专员",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "7bab1638487fcfbf1HR439y6FVBW",
+        "expectId": 0,
+        "jobName": "综合运维工程师",
+        "lid": "3HeuzbRFzcB.search.1",
+        "salaryDesc": "4-8K",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "通信/工程相关专业",
+          "运维开发经验",
+          "C语言"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "武汉",
+        "areaDistrict": "江夏区",
+        "businessDistrict": "光谷东",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101200100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "b48e19e5539bf4d70nV42N2_",
+        "brandName": "锐奥特",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210624/2e728dc9342151d609508cc7664988ddc4c584ddf93b49a6cfad37a11dba1d32.jpg",
+        "brandStageName": "A轮",
+        "brandIndustry": "通信/网络设备",
+        "brandScaleName": "100-499人",
+        "welfareList": [
+          "五险一金",
+          "全勤奖",
+          "带薪年假",
+          "节日福利",
+          "员工旅游",
+          "免费班车",
+          "年终奖",
+          "年底双薪",
+          "生日福利"
+        ],
+        "industry": 100024,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
