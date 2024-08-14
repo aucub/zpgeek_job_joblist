@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 271,
+    "filterString": "",
+    "lid": "2yY7XEg2ypf",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "zag21uZRB0_w6-u1ckcNELwBaAv-X1DZN252b6gYRKKIjS2svAIafw-QrmprJUWKUtijAl4XDIjoxaYtrZ8-tlfRmnqX9O8zsULQUWjQOrVUfiY~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd067eb975cca20584b24eb2fe3b5df21f83fd05c15886954692d70aad3879d387e_s.jpg.webp",
+        "bossCert": 3,
+        "encryptBossId": "755056e2969411681nZ709S6FlA~",
+        "bossName": "王女士",
+        "bossTitle": "设计部经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "51057d36a0d0f04c1nx_2dy8EVpY",
+        "expectId": 0,
+        "jobName": "室内设计",
+        "lid": "2yY7XEg2ypf.search.271",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "熟悉施工工艺",
+          "PS",
+          "普通住宅",
+          "AutoCAD",
+          "装修设计",
+          "工程造价",
+          "良好的方案沟通能力",
+          "熟悉装修材料",
+          "空间设计"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "北京",
+        "areaDistrict": "",
+        "businessDistrict": "",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 271,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "d4e7ac8b2ce2d9a91XV829Q~",
+        "brandName": "业之峰装饰",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20191128/93dbfbf858834b3931acdbacd7a4901ebe1bd4a3bd2a63f070bdbdada9aad826.png",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "装修装饰",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "全勤奖",
+          "带薪年假",
+          "节日福利"
+        ],
+        "industry": 100704,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 271,
+    "brandCard": null
+  }
+}
