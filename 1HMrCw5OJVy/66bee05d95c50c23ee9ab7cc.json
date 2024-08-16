@@ -1,0 +1,69 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1HMrCw5OJVy",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "NI5yEFm9ZUCqV-D1VEx5qepE9rDjds9vywa7EV2Z9NbotDh5wAesO0jI8I4U3W1ArTtTouCzbqvSfM8Ys_mjB1EZ4kzHuXo93yM_52u2AcBUDAVt",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+        "bossCert": 3,
+        "encryptBossId": "e7cabb6cfd2f17bf0nB_0965F1I~",
+        "bossName": "吴女士",
+        "bossTitle": "Hr",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "535923fb77bf68f31HB93N65EFM~",
+        "expectId": 0,
+        "jobName": "测试实习生",
+        "lid": "1HMrCw5OJVy.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "应届生",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "android测试",
+          "手机测试",
+          "游戏测试"
+        ],
+        "jobExperience": "应届生",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "成都",
+        "areaDistrict": "郫都区",
+        "businessDistrict": "犀浦",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101270100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "048b69b50c3603d11HFy09i7EA~~",
+        "brandName": "硕阳泰克",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "",
+        "brandIndustry": "计算机服务",
+        "brandScaleName": "100-499人",
+        "welfareList": [],
+        "industry": 100023,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

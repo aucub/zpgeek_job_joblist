@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1MtgmiA4R0S",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "Js-q6hG8W66V7-r1ukfZRc1G-_OoRTsAmpWtb1gOv7O1thVvb_rDnNoaFKMOBmZwv9odRZX8UO-ZKpTRdUVpiIL_CfHQ_F3ggW6wWZTECqWrV5pw0x69",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+        "bossCert": 3,
+        "encryptBossId": "01d65229449fb2b20nJ_2dq5FFBZ",
+        "bossName": "黎女士",
+        "bossTitle": "总监",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "e314054332cf83f81Hd-39-5F1ZT",
+        "expectId": 0,
+        "jobName": "青英计划 erp实训 培养储备岗",
+        "lid": "1MtgmiA4R0S.search.1",
+        "salaryDesc": "3-8K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "ERP",
+          "WMS",
+          "OA",
+          "Oracle EBS/Fusion",
+          "计算机相关专业",
+          "财务相关专业",
+          "熟练掌握SQL语句",
+          "PMP"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "深圳",
+        "areaDistrict": "龙岗区",
+        "businessDistrict": "坂田",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "711df2a66c1413a51nF629y1F1E~",
+        "brandName": "高睿咨询",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210320/6d97ce316d1614a7ade261e5648e8b665105ac02de05cded5db6edcf1bde5544.png",
+        "brandStageName": "天使轮",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "员工旅游",
+          "补充医疗保险",
+          "五险一金",
+          "定期体检",
+          "股票期权",
+          "年终奖",
+          "带薪年假"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
