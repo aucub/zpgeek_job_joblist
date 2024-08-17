@@ -1,0 +1,80 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 31,
+    "filterString": "",
+    "lid": "1pzmk1Voq0A",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "quHbBtwe6D9bR-D1uN0iXFWvXuYq_FqvKZaOvFayl0xXfM320gSep-m5Y0jcGZKALFw05kDCozRcphobwmBU5cYaQQJm4hN-M4XR-f2GQjzXTiDRPig~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+        "bossCert": 3,
+        "encryptBossId": "60bda38bde18fbff0nZ92Nm1GVpV",
+        "bossName": "约女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "bfae51c6943d3a7c1X1_39W5FFRV",
+        "expectId": 0,
+        "jobName": "调试员",
+        "lid": "1pzmk1Voq0A.search.31",
+        "salaryDesc": "4-9K",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试",
+          "通信相关专业"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "南京",
+        "areaDistrict": "玄武区",
+        "businessDistrict": "徐庄软件园",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 31,
+        "city": 101190100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "84038d35ed16354f03F-0tq0Fg~~",
+        "brandName": "肯立科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201120/1ad0c64dd5f709a9774f3d641860ffd7d3688d337cbac66c229914867716b320.jpg",
+        "brandStageName": "B轮",
+        "brandIndustry": "通信/网络设备",
+        "brandScaleName": "100-499人",
+        "welfareList": [
+          "五险一金",
+          "零食下午茶",
+          "加班补助",
+          "带薪年假",
+          "年终奖",
+          "餐补",
+          "交通补助",
+          "节日福利",
+          "定期体检",
+          "全勤奖",
+          "员工旅游"
+        ],
+        "industry": 100024,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 31,
+    "brandCard": null
+  }
+}

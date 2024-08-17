@@ -1,0 +1,72 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 271,
+    "filterString": "",
+    "lid": "1o7iKiZ7j0f",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "Fk4FIjyLy0GpQ-n1_h7DEtGewLc5W5qFiCL-kpiWHRUMeqhPY1mGz7SpEMLSBjg-7w1N4aiYD9za40ohpNG7WDWXzt7dLwB3FOaPRxgiA21afdG-",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230208/607f1f3d68754fd03245ca5a0e2de67f0ef1ae62f577c96462bee4de760276863b9160d801dec7e6_s.png",
+        "bossCert": 3,
+        "encryptBossId": "f712ad2cf4d478fe1nV83du5EVNS",
+        "bossName": "那女士",
+        "bossTitle": "人事",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "e09ca3c9078b18b51HB72t-0FVFT",
+        "expectId": 0,
+        "jobName": "家装设计师助理",
+        "lid": "1o7iKiZ7j0f.search.271",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "不接受居家办公",
+          "家居/家具设计"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "北京",
+        "areaDistrict": "朝阳区",
+        "businessDistrict": "来广营",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 271,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "d4e7ac8b2ce2d9a91XV829Q~",
+        "brandName": "业之峰装饰",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20191128/93dbfbf858834b3931acdbacd7a4901ebe1bd4a3bd2a63f070bdbdada9aad826.png",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "装修装饰",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "带薪年假",
+          "节日福利",
+          "全勤奖"
+        ],
+        "industry": 100704,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 271,
+    "brandCard": null
+  }
+}

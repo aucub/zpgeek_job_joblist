@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1fydHyTjHDw",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "j7waFKUfWeB2L-r1Ybt1ezP8ATHYEtmrabscCbsKtkordK-Fou1wujNC0cvq-v2uS0O26UNw5kEgunJ_upLiXnX2oENk9lOfQ8cwOGbWacUqrQ6VE44SLPke9Su_XJrbdx2YmuG1LQL_",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190224/20f23ac0d3a35412203beea562db7c4bcfcd208495d565ef66e7dff9f98764da_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "29609717c232a93e1n1829S5EFY~",
+        "bossName": "严磊",
+        "bossTitle": "招聘者",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "066fc2c5a4aafdf91nR609S5EFJS",
+        "expectId": 1014887466,
+        "jobName": "全栈软件开发工程师",
+        "lid": "1fydHyTjHDw.search.1",
+        "salaryDesc": "4-9K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "全栈侧重前端",
+          "JavaScript",
+          "Vue",
+          "C/C++",
+          "Python",
+          "MySQL/Redis/MongoDB",
+          "数据可视化",
+          "CubesViewer"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "上海",
+        "areaDistrict": "浦东新区",
+        "businessDistrict": "康桥",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "2bf6efddf98f1b3b1XR709y9FQ~~",
+        "brandName": "霖客达",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190224/288dce986fc31182ccbe465c00dd5ba99a87bc35004be47626be498809d2201b_s.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "互联网",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "员工旅游",
+          "带薪年假",
+          "股票期权",
+          "年终奖",
+          "五险一金",
+          "住房补贴"
+        ],
+        "industry": 100020,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

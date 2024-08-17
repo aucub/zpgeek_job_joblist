@@ -1,0 +1,72 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1m52RTFUuLu",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "2Ysshp45aEhsV-S1YaGLQo8VTiljw3xXhO2J4CV8GUSRJaa825MZEmaHUf-gocsUne2KRX2zDgrqIfUuH_yKEXA2t-nEaiqLjcgVkx4QgW7Rx9Oa-LU2",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+        "bossCert": 3,
+        "encryptBossId": "809ee6cb60aa0b8b0n1z2Nq0F1FU",
+        "bossName": "刘女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "b267f252691167e61HB52926GVRZ",
+        "expectId": 0,
+        "jobName": "初级软件实施工程师",
+        "lid": "1m52RTFUuLu.search.1",
+        "salaryDesc": "4-8K",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业",
+          "软件实施经验",
+          "数据库",
+          "SQL"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "广州",
+        "areaDistrict": "荔湾区",
+        "businessDistrict": "芳村",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101280100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "c12880ae29a7be711XN_0t--EFM~",
+        "brandName": "仓实",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240327/7bf6f160950405e92275a00c59a7f56f5f7bfa43793b951d10a9029fda3937c579345df9d31e914e.png.webp",
+        "brandStageName": "未融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "五险一金"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
