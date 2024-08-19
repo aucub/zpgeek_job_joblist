@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "IhF2RBfuak",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "UR4Xj5ik2p4q4-c19AeoZatvc4eXRu_vreKS0Hy1q2vCSJaSMa4boodyTNEdaMul0ovWpv2o9k_w1_mlerQuRPImQc0b96dgPPsEVkTrWTzwCVm_y-4GH6casDS85UdbI6ifS-aNF1kg",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+        "bossCert": 3,
+        "encryptBossId": "1632f81258eb01201HB53Nm-FVY~",
+        "bossName": "翟女士",
+        "bossTitle": "招聘资深经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "1c893df29783a1ba1HZ_39m6GFtW",
+        "expectId": 1014887466,
+        "jobName": "软件开发",
+        "lid": "IhF2RBfuak.search.1",
+        "salaryDesc": "4-6K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "全栈侧重前端",
+          "计算机相关专业",
+          "前端开发经验",
+          "接受岗位方向调整（PM、BD、店长）",
+          "招实习生"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "南京",
+        "areaDistrict": "建邺区",
+        "businessDistrict": "应天西路",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "e9de356f6197d20f33N63N2-Eg~~",
+        "brandName": "康道来",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200606/072f17d879af2e1ef86e088efea52081a38c197a14fbbf71c8c502637147a481.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "医疗健康",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "补充医疗保险",
+          "五险一金",
+          "加班补助",
+          "定期体检",
+          "股票期权",
+          "年终奖"
+        ],
+        "industry": 100006,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

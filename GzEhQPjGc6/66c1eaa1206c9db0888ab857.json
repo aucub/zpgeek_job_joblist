@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 31,
+    "filterString": "",
+    "lid": "GzEhQPjGc6",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "1iyfUNl1ikgxM-g1QkM_884u4-OL3WefxU17sSLvQ31oa_fozwM3WiT5glhC4PbBUkPkfy36vmnuuqppBDXC6nTKKinXx16SdCWTRFqitHBlUD6v",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181023/8032764a29b029026af0d33e15f1ba7b73e089face116a7fc8052bf916e92a9e_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "a6929939a5c0c86903Nz3ti0FFE~",
+        "bossName": "张女士",
+        "bossTitle": "行政人事主管",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "9eea56e7d56113c81nN72Nm1E1RS",
+        "expectId": 0,
+        "jobName": "环境可靠性/失效分析 测试工程师（实习生）",
+        "lid": "GzEhQPjGc6.search.31",
+        "salaryDesc": "3-4K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "实习生",
+          "测试"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "上海",
+        "areaDistrict": "浦东新区",
+        "businessDistrict": "康桥",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 31,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "f4d057ed97a277671Hd409W1",
+        "brandName": "广电计量",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160726/59d69d8ca202af743e6f0877c10cca2a7a330a5cabbd8c9816e8f9d64cf923ed.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "其他行业",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "节日福利",
+          "五险一金",
+          "带薪年假",
+          "员工旅游",
+          "补充医疗保险",
+          "加班补助",
+          "定期体检",
+          "年终奖"
+        ],
+        "industry": 101304,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 31,
+    "brandCard": null
+  }
+}
