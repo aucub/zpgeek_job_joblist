@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 31,
+    "filterString": "",
+    "lid": "X5yDXezxu0",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "wrp4EJgh7lOHr-t1LwNxqbdY4j3rr6Msr8udN6JfDOp3AAZpkr0RwNz9AN8hPpM93AwVS3obJOYEQtfGG9p1e5o4TMPig46ojx_wwwR6G2Fkqqc~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+        "bossCert": 3,
+        "encryptBossId": "1e0952c5249398f60nx50tu6FFFS",
+        "bossName": "姚先生",
+        "bossTitle": "招聘专员",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "f1bab6e17414791b1XN43tW6GFZS",
+        "expectId": 0,
+        "jobName": "自动化测试工程师",
+        "lid": "X5yDXezxu0.search.31",
+        "salaryDesc": "15-30K",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Python",
+          "C++",
+          "Shell",
+          "计算机相关专业",
+          "测试工作经验",
+          "自动化测试经验"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "广州",
+        "areaDistrict": "白云区",
+        "businessDistrict": "罗冲围",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 31,
+        "city": 101280100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "02cd05cce753437e33V50w~~",
+        "brandName": "华为",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200429/8f64c9d0b30a53c434b26799ca78966cec9b49ecaf1604cb263748f03d5c2b0f.png",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "股票期权",
+          "五险一金",
+          "节日福利",
+          "年终奖",
+          "补充医疗保险",
+          "加班补助",
+          "餐补",
+          "定期体检",
+          "零食下午茶",
+          "员工旅游"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 31,
+    "brandCard": null
+  }
+}
