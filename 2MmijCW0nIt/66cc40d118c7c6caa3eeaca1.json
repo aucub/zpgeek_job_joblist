@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "2MmijCW0nIt",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "DluGauvGZ2jj0-k1kAG_Y64CDFJjTr0p9XxX0UKLfwPPV8qIiIOq9wwe-683vtKcbFDTD37mDZ1APYGCn0o7QG2ZxnknpO3T_QPmB_GWqDTBJW8OS_o~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230901/607f1f3d68754fd0108231c7185b82801fd51b02715ebe09082c0a54cce6531b2b7f9d9030055c71_s.jpg.webp",
+        "bossCert": 3,
+        "encryptBossId": "61b784c1a2f8870e1Hd-3925FlY~",
+        "bossName": "段女士",
+        "bossTitle": "人事",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "53d6e58900e579b81X1_3Nm1GFNS",
+        "expectId": 0,
+        "jobName": "24届实习生（汽车测试工程师）",
+        "lid": "2MmijCW0nIt.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "测试工作经验",
+          "通信相关专业",
+          "计算机相关专业"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "长春",
+        "areaDistrict": "朝阳区",
+        "businessDistrict": "高新开发区",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101060100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "1bb7afcbf1bb915b1XB72NS9FFU~",
+        "brandName": "长春风火轮科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230214/7b5b554d84f9729c36af19093aef6e6f87051adb4e0a3105082c0a54cce6531b2b7f9d9030055c71.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "电子/半导体/集成电路",
+        "brandScaleName": "100-499人",
+        "welfareList": [
+          "加班补助",
+          "年终奖",
+          "五险一金",
+          "保底工资",
+          "绩效奖金"
+        ],
+        "industry": 100026,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
