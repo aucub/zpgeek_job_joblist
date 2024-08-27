@@ -1,0 +1,69 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 151,
+    "filterString": "",
+    "lid": "39iaePzeBQE",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "OE2VOpiYksodE-k1Nl4wCmIqvsZOZkD10c37uL47JnAl1USsecbCnC4hegwrhLGA0IPW-QVvYiF-CReTDTnO6NzJsCZ4I3XkL_PdnUaN4H9C_sA~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+        "bossCert": 3,
+        "encryptBossId": "fc8464a945e353191XJ-39q7FFc~",
+        "bossName": "陈先生",
+        "bossTitle": "总经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "f7614a978a0f226a1nRy2t25E1o~",
+        "expectId": 0,
+        "jobName": "软件工程师",
+        "lid": "39iaePzeBQE.search.151",
+        "salaryDesc": "3-6K",
+        "jobLabels": [
+          "1年以内",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "后端开发",
+          "Java",
+          "Javascript"
+        ],
+        "jobExperience": "1年以内",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "广州",
+        "areaDistrict": "天河区",
+        "businessDistrict": "元岗",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 151,
+        "city": 101280100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "e846bc8d71f6d2810nx53d21",
+        "brandName": "广州软易",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190402/bbab5ab6f9a2cac53d2696d6a29f6ca2af71ed6637ce28edf13a038c528e82e3.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 151,
+    "brandCard": null
+  }
+}
