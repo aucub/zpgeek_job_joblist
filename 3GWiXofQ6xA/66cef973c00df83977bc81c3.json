@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "3GWiXofQ6xA",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "D2JktdY5kfBLx-o1a7OZIBkh9mBe_3yf0HWgrFjSrb8gpfN7i1Y6QKWRQeQBkmZcRu02xdzCV-aeZCjVQZozL_W3DzfKcyAc_XUWWnL5saun3VjSng~~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210810/18986a2740ad137bd2b92f1d37698de6d8698d802cb9b9d287acc975e21c949a_s.png",
+        "bossCert": 3,
+        "encryptBossId": "be564e023bddf74e0XZz3du8FVA~",
+        "bossName": "徐女士",
+        "bossTitle": "人事主管",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "31a5909e1c81471c1XR72d68EFpR",
+        "expectId": 0,
+        "jobName": "电子工程师助理",
+        "lid": "3GWiXofQ6xA.search.61",
+        "salaryDesc": "6-8K",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "硬件测试",
+          "测试，检验"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "北京",
+        "areaDistrict": "门头沟区",
+        "businessDistrict": "永定",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "49cadacc52a3297403By3ti4GQ~~",
+        "brandName": "方向华信",
+        "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+        "brandStageName": "",
+        "brandIndustry": "电子/半导体/集成电路",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100026,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
