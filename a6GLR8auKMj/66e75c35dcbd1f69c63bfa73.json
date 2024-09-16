@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "a6GLR8auKMj",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "gSO0tFjmHY08J-V1B4EVsNBU8tFNiXs3zejWnaEZdXmCjUHdWhPOLCD1qDWcjjXpBMl5XSxI7uv3tS0aK0Hv6U-XMBA6af3NrFhZjUb-9MjG5ld-dZTD",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+        "bossCert": 3,
+        "encryptBossId": "f665664c91c3c5440nVz2t2-F1dT",
+        "bossName": "赵女士",
+        "bossTitle": "招聘者",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "2a8e7e7fc97828fe1XF70t-8F1dU",
+        "expectId": 0,
+        "jobName": "实施顾问",
+        "lid": "a6GLR8auKMj.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "在校/应届",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业",
+          "电子/电气/自动化相关专业",
+          "通信相关专业",
+          "售后技术支持、可出差"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "南京",
+        "areaDistrict": "建邺区",
+        "businessDistrict": "奥体",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "7188b0545eea2c541Xd_3NW9FFU~",
+        "brandName": "糖宁健康",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221020/7bf6f160950405e9953afbfecd930ddcc0c86adbb4d0cb34280b68943159571ad481972482727d2a.jpg",
+        "brandStageName": "A轮",
+        "brandIndustry": "医疗器械",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "带薪年假",
+          "生日福利",
+          "节日福利",
+          "法定节假日三薪",
+          "股票期权",
+          "年终奖",
+          "五险一金"
+        ],
+        "industry": 100403,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
