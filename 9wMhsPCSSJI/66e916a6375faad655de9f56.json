@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 181,
+    "filterString": "",
+    "lid": "9wMhsPCSSJI",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "SJxQ6eAecOimD-o1Pl3V7QTEQKvt51WQiQXifq5CsWt0KAm3nB4I05PM7Zrpptx30BcQsTNLuXH_3qKb0bny7Yy70x23IuT6tpZXA9MkooWcK5q0",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191008/5a90e48c361948924045e22e936c5a14aaa26e2111cf607ce3787dd60249fc83_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "a60485c2b769f75b0XN73t-5FFQ~",
+        "bossName": "李先生",
+        "bossTitle": "招聘者",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "20f3b0178314f67b0Xd6392-FFM~",
+        "expectId": 0,
+        "jobName": "无线网络优化工程师",
+        "lid": "9wMhsPCSSJI.search.181",
+        "salaryDesc": "2-4K",
+        "jobLabels": [
+          "在校/应届",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "网络优化",
+          "无线通信"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "武汉",
+        "areaDistrict": "江汉区",
+        "businessDistrict": "常青",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 181,
+        "city": 101200100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "09daa917a95f51d51nN839S6FA~~",
+        "brandName": "建优欣网",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220628/7bf6f160950405e9abdbf54064421c91323efdaf7c3a564aeafcfe3fcf937b4a367d6fd5e7d56167.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "通信/网络设备",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "五险一金",
+          "加班补助",
+          "交通补助",
+          "住房补贴"
+        ],
+        "industry": 100024,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 181,
+    "brandCard": null
+  }
+}
