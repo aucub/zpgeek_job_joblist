@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 151,
+    "filterString": "",
+    "lid": "98NdNGIwiEG",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "qbeTwOoKGnIW7-u1d9wIIGWNPlysezhCllgpg9jIMr0VOSH32dPovdja8aucGM3AD-B0ymcW97mO8LOuuJaLh8a82p5x8y1mSmIKTCcKan5wzPs~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190210/167eae154cea26f1d5f2bef4c9b58ec90073919490d2d47af9ea33a0688ebf2b_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "93e562d4ed1f79fd03B50tu0GVE~",
+        "bossName": "钱女士",
+        "bossTitle": "招聘者",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "b8a102a8b4dac2ac33Vy3d25F1A~",
+        "expectId": 0,
+        "jobName": "创+新青年项目 实习生 （上海）",
+        "lid": "98NdNGIwiEG.search.151",
+        "salaryDesc": "1-3K",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "创新",
+          "活动策划",
+          "社会创新",
+          "文化创新",
+          "共益创新"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "上海",
+        "areaDistrict": "普陀区",
+        "businessDistrict": "长寿路",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 151,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "c251fcfd47c29e630nx83Ny8",
+        "brandName": "媒介360",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170405/241477d29c62a315396069cb1fea668779d9a4657c2a32578a31c29a3da8fe6b.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "广告营销",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "五险一金",
+          "定期体检",
+          "餐补",
+          "带薪年假",
+          "补充医疗保险",
+          "节日福利"
+        ],
+        "industry": 100004,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 151,
+    "brandCard": null
+  }
+}
