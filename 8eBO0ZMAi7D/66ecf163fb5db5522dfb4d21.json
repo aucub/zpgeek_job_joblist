@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "8eBO0ZMAi7D",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "NqpOMdbr98adF-e1G2xWaZQCqR6ivWT9FY9OgUsej8Zb6uPQOjXNrvlPDM7nKyQNzwZhH19FHzJv4hJomD3uLAh4H2KHrl4OLNtWbfzh9-jiVY7RYEXWCNebs0AqJ1TUaTyboR4j4JLm0oo~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd0a5a66c25812a4af05e3190785dc1b2df9434b10f36f76050bfd593a4a138b81d_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "cc72ec4b41c6cd5d0XR63tW0GFdX",
+        "bossName": "黎女士",
+        "bossTitle": "招聘专员",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "acd3dff105b3c4e71HN_3d20EFRZ",
+        "expectId": 1014042683,
+        "jobName": "软件测试实习生",
+        "lid": "8eBO0ZMAi7D.search.61",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试",
+          "性能测试",
+          "自动化测试",
+          "计算机相关专业",
+          "测试工作经验",
+          "掌握软件测试理论和流程"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "东莞",
+        "areaDistrict": "长安镇",
+        "businessDistrict": "长安新区",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101281600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "d713cba7bcbcf7e71n190ti6FVc~",
+        "brandName": "元时空",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220113/7bf6f160950405e907557ca349f58d0afe97eb11aac09ac05c0f8e51bc575fc81d7e51757f9dd0c7.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "500-999人",
+        "welfareList": [
+          "五险一金",
+          "补充医疗保险",
+          "定期体检",
+          "节日福利",
+          "零食下午茶"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
