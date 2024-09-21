@@ -1,0 +1,70 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 121,
+    "filterString": "",
+    "lid": "7FTHrFQNmnU",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "KHbJDEiZFzpo5-_1bONLfZNmbNfCBvc9hYhwqZ5DcnEp0OcvnVsQ3U5hyMrujjjoBT5JHbHEwERF9QvRv6E35BBM-JjUjorlkh0mrpmsWf-2sCJ9Ed1N",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240417/607f1f3d68754fd09afcef80c7653c666607c4df3aaf939977ddb23899d2e276142a22d34b55e5f6_s.png.webp",
+        "bossCert": 3,
+        "encryptBossId": "b4127677739731bc0nR82ti5E1ZS",
+        "bossName": "张女士",
+        "bossTitle": "设计总监",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "83649d0019eeb8041HJ83N64GFtY",
+        "expectId": 0,
+        "jobName": "酷家乐绘图员",
+        "lid": "7FTHrFQNmnU.search.121",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "独立完成效果图",
+          "客情维护",
+          "良好的方案沟通能力",
+          "接受居家办公"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "苏州",
+        "areaDistrict": "昆山市",
+        "businessDistrict": "玉山",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 121,
+        "city": 101190400,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "8b2100e0038ac5201XBz29q0F1U~",
+        "brandName": "昆山开发区昆坤装...",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "",
+        "brandIndustry": "装修装饰",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100704,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 121,
+    "brandCard": null
+  }
+}
