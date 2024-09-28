@@ -1,0 +1,69 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "4vqWh1c8e1X",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "wOsQO81F-RhA8--15QX8kMmELmY1X4qu9ckQLdjDg1hMYPRoR3j_kHDy6soN1NN7fI2EkJPLR2JKPka6dq7bYg-_Fpas5tEPYVj-1Ua3igEOOSnT",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+        "bossCert": 3,
+        "encryptBossId": "a5a97e9296caf43c1HVz2dy9FFE~",
+        "bossName": "黎先生",
+        "bossTitle": "副总",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "c53713b6618f12fc1nBz39S8ElY~",
+        "expectId": 0,
+        "jobName": "自动化测试",
+        "lid": "4vqWh1c8e1X.search.1",
+        "salaryDesc": "4-6K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "自动化测试",
+          "硬件测试",
+          "web自动化"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "广州",
+        "areaDistrict": "黄埔区",
+        "businessDistrict": "南岗",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101280100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "360dfa2709e0db561nV82t29EA~~",
+        "brandName": "广州乾鼎电力科技公司",
+        "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+        "brandStageName": "",
+        "brandIndustry": "智能硬件",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100018,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 271,
+    "filterString": "",
+    "lid": "4rpWRAmFXIN",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "rrM2Oto5pGxsn-B11LXI2SWH-mNw53VpRzhZ9ZPCOBEwG7U6rSTPPMHecdHLLS5WBeMDCaAKXmZkFEDGKv6zMEu_WFSKuec4YDKZ9w1UH461Iz6I",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220521/607f1f3d68754fd094c6f1cb29e024a3e727b4f8e0260691bb12934c5e0fdfdcefe3e24c1b71a193_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "6496e831fe1c3e461HZy39u0FVI~",
+        "bossName": "李女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "1747e5c9db3dce661HN839y-FlNS",
+        "expectId": 0,
+        "jobName": "手机/平板测试（深圳）",
+        "lid": "4rpWRAmFXIN.search.271",
+        "salaryDesc": "7-10K",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "测试工作经验",
+          "通信相关专业",
+          "手机",
+          "OS",
+          "性能测试",
+          "功能测试",
+          "计算机相关专业",
+          "音频"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "深圳",
+        "areaDistrict": "南山区",
+        "businessDistrict": "科技园",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 271,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "95b4b47ef9141c671nd52ty_",
+        "brandName": "法本",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/32931505697e3fbef594fb9ca3fd94a5cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "企业文化",
+          "定期体检",
+          "零食下午茶",
+          "节日福利",
+          "带薪年假",
+          "员工旅游",
+          "加班补助",
+          "五险一金"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 271,
+    "brandCard": null
+  }
+}
