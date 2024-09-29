@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 241,
+    "filterString": "",
+    "lid": "42dQD9LhdmT",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "1JlbsdJMSwrl3-N1lvqrfTjxUHYdrw0I26G9ZkqSpPRr5G2Xmv2SuQ4lWpZbLT1WpzteVI13f75CQn53VnK8wBRQ7v6VY1BuWuySUFZYKQ5kgrJQZw~~",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+        "bossCert": 3,
+        "encryptBossId": "04afc1d0a966f80c1HVy2NW0FlE~",
+        "bossName": "刘先生",
+        "bossTitle": "行政人事专员",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "9978982399fdfeb91HJ_3tW8EVZR",
+        "expectId": 0,
+        "jobName": "高压电工证（2025届毕业生）",
+        "lid": "42dQD9LhdmT.search.241",
+        "salaryDesc": "4-5K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "实施交付运维"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "成都",
+        "areaDistrict": "武侯区",
+        "businessDistrict": "中和",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 241,
+        "city": 101270100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "225ea8f43f1c7b6c03Z63dm_FQ~~",
+        "brandName": "中联华睿",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190419/d47ca225680ac8aaee7afa25f915a8ec78d4cb0204b31a4c41e4b58113621186_s.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "电力/热力/燃气/水利",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "五险一金",
+          "加班调休",
+          "年终奖",
+          "项目奖金",
+          "全勤奖",
+          "五险",
+          "高温补贴",
+          "团建聚餐",
+          "意外险"
+        ],
+        "industry": 101205,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 241,
+    "brandCard": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "46pP6giC3fL",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "kosotkEBD69NG-b1TwWbh0QGlC5QvfOyhZ4LJvJTqMtu61hvKornrkKeH3KOpMoZMLabfj2nJlovVRKSvCFSw34xyzggOrJ6LgbEaqDW5BCStedj",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+        "bossCert": 3,
+        "encryptBossId": "b6d7139acd1413541Xx-39q-ElE~",
+        "bossName": "温先生",
+        "bossTitle": "销售总监",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "c7f5c685c4fee0161XZ_3N-7ElI~",
+        "expectId": 0,
+        "jobName": "EMC测试工程师",
+        "lid": "46pP6giC3fL.search.61",
+        "salaryDesc": "4-6K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试",
+          "性能测试",
+          "测试"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "深圳",
+        "areaDistrict": "南山区",
+        "businessDistrict": "科技园",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "0917572d923bd5f91n160t24Fw~~",
+        "brandName": "莫特技术",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180703/5ecf126e4e816fee4112728ed9f6e1d2cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "企业服务",
+        "brandScaleName": "20-99人",
+        "welfareList": [],
+        "industry": 100015,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
