@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 211,
+    "filterString": "",
+    "lid": "3IdU3hFaHBa",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "sq1zXeukr8TjN-Y1EWWPW1QY-tiKlI0QZeyTlG0_EfStOmPq7VUcOokgfwsydo53G2dEPJpsCdJFDfJEVH5SCSveSnoiuXpD3HMuUrVaWJYhW5XVovdH",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210625/b9f3d4300066e037e1f28327ccdc71a27a937ad1424c5cc8480fbb93def250d8_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "1791992a7f5f95460ndy2d27GVpZ",
+        "bossName": "刘先生",
+        "bossTitle": "行政经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "dd4bfeffd5c029781nJ82Ny_E1NY",
+        "expectId": 0,
+        "jobName": "游戏3d特效实习生",
+        "lid": "3IdU3hFaHBa.search.211",
+        "salaryDesc": "1-3K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "3D特效",
+          "特效3d实习"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "杭州",
+        "areaDistrict": "滨江区",
+        "businessDistrict": "长河",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 211,
+        "city": 101210100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "d8ab6a12c75f21c21nNz3ty6FlQ~",
+        "brandName": "吟游",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210625/5dac251e5f8e4bea6b8e0b0f9db53db97a937ad1424c5cc8480fbb93def250d8.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "游戏",
+        "brandScaleName": "20-99人",
+        "welfareList": [
+          "员工旅游",
+          "通讯补贴",
+          "带薪年假",
+          "五险一金",
+          "年终奖",
+          "交通补助",
+          "节日福利",
+          "零食下午茶"
+        ],
+        "industry": 100002,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 211,
+    "brandCard": null
+  }
+}
