@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 61,
+    "filterString": "",
+    "lid": "2Jvwaezljyi",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "5tDGMjUKOl3M0-E15GrBlnA9Q4xXsssEuw_x2rrDA9ZSG1yd6jM_b9tO8BD2gWiOrUswBo7lN8oWibA9EqPzda-vkZ2QNZWk0vydInU0Vcziy7EejoOM",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/6aa5a9ce3269e3658c28990d273a2809f7b8d4456ba95cec2b55d3c872029db6_s.png",
+        "bossCert": 3,
+        "encryptBossId": "93b3290775020f790ndz3NS_GFBW",
+        "bossName": "董先生",
+        "bossTitle": "Labview高级软件工程师",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "17160ef448ca4db51nJ_0tS7GVFQ",
+        "expectId": 0,
+        "jobName": "labview软件工程师",
+        "lid": "2Jvwaezljyi.search.61",
+        "salaryDesc": "9-14K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "3C行业自动化",
+          "机器视觉",
+          "labview"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "深圳",
+        "areaDistrict": "龙华区",
+        "businessDistrict": "观澜",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 61,
+        "city": 101280600,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "3330922609ad842e1nx60tm4FFU~",
+        "brandName": "Secote",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210706/e08ef3a9f1cff142a5b61ec5a290eabaf7b8d4456ba95cec2b55d3c872029db6.png",
+        "brandStageName": "已上市",
+        "brandIndustry": "仪器仪表/工业自动化",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "包吃",
+          "餐补",
+          "加班补助",
+          "年终奖",
+          "定期体检",
+          "员工旅游",
+          "带薪年假",
+          "节日福利",
+          "五险一金"
+        ],
+        "industry": 100902,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 61,
+    "brandCard": null
+  }
+}
