@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "Fwly0ftkrL",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "SIf32aPpmwLPO-J1nzCwYMrqucmfbmQ5eixzYwWWaqkk71TsYNJqepIa2y4-e_KU6D4_uHGfdUJW30uJ4PTDKcJDWUzjXdGHAcheVra8VNk_SdDQIO85",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230105/607f1f3d68754fd09bda766d2d3cb4a82432c5ca8e02eb7851fbcf64009b22a90eab96e5bc2b7198_s.png",
+        "bossCert": 3,
+        "encryptBossId": "2b6c675680a7512b0nN529q4E1tR",
+        "bossName": "刘先生",
+        "bossTitle": "经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "10408fbe5e8edd461XJ72tq9FFZW",
+        "expectId": 0,
+        "jobName": "labview软件工程师",
+        "lid": "Fwly0ftkrL.search.1",
+        "salaryDesc": "4-5K",
+        "jobLabels": [
+          "1年以内",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "自动化测试经验",
+          "软件开发经验"
+        ],
+        "jobExperience": "1年以内",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "上海",
+        "areaDistrict": "浦东新区",
+        "businessDistrict": "金桥",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "5a29a7df629c76dc1XB-2tS9FFU~",
+        "brandName": "追质",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "",
+        "brandIndustry": "仪器仪表/工业自动化",
+        "brandScaleName": "0-20人",
+        "welfareList": [],
+        "industry": 100902,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
