@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 121,
+    "filterString": "",
+    "lid": "1DOyU5FGIA",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "Wd-P0EgQTrphU-H1uf9gL_JnNoFNHfI4rQZ1ZWT5y8d7BeEXjmGvYMz0B1uk61zV3NhgkJ990MGk40rwzoQ6N13kbWs95yelzrg52mrAF_9UPJc5",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+        "bossCert": 3,
+        "encryptBossId": "2af4bc3cc7e0e3270nZ929-9F1Q~",
+        "bossName": "郭女士",
+        "bossTitle": "总经理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "bcb088a5aa51a87c1Hd409y0EVQ~",
+        "expectId": 0,
+        "jobName": "桌面维护工程师",
+        "lid": "1DOyU5FGIA.search.121",
+        "salaryDesc": "4-5K",
+        "jobLabels": [
+          "经验不限",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "运维",
+          "IT支持",
+          "网络安全"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "长沙",
+        "areaDistrict": "开福区",
+        "businessDistrict": "开福区政府",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 121,
+        "city": 101250100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "363deeb8e96260e61nV439S1Fg~~",
+        "brandName": "弘焱科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+        "brandStageName": "未融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "0-20人",
+        "welfareList": [
+          "五险一金",
+          "节日福利",
+          "加班补助",
+          "通讯补贴",
+          "年终奖"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 121,
+    "brandCard": null
+  }
+}

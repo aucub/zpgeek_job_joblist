@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 271,
+    "filterString": "",
+    "lid": "1sGvxw91Wb",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "88O5TGOzr1M77-41KhkhGu0pdqdsMxJ0op0IDdjQTF1O25GZs8tWFVeh5wxAt3QoF21_an2cBROn16KFD0sk4gQ-r1dK1c7yi8MkkVd6t2TiSh9Cw-QWmD63rUUPBR5q_ANiKVXE4iij",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240808/607f1f3d68754fd04b75e27ed6a87406433348bbe3b9ff2fceff788e121feb192f19429994e9a4e0_s.png.webp",
+        "bossCert": 3,
+        "encryptBossId": "c6dde3a0eb8b9f5e1HV83dy5GFU~",
+        "bossName": "李亚男",
+        "bossTitle": "HRBP",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "680559ac24adc1d91Hx-2tu5FVdW",
+        "expectId": 1014042683,
+        "jobName": "产品运营履约工程师-风电行业",
+        "lid": "1sGvxw91Wb.search.271",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "1-3年",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "大数据分析",
+          "技术支持工程师",
+          "产品质量管理"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "上海",
+        "areaDistrict": "黄浦区",
+        "businessDistrict": "五里桥",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 271,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "f007286f44e9cda23nB52Nm5Ew~~",
+        "brandName": "远景能源",
+        "brandLogo": "https://c-res.zhipin.com/jrs/13678c93dd895b8a76ad4a7ac6c815bc.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "互联网",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "补充医疗保险",
+          "全勤奖",
+          "五险一金",
+          "通讯补贴",
+          "住房补贴",
+          "带薪年假",
+          "员工旅游",
+          "包吃",
+          "年终奖",
+          "定期体检",
+          "加班补助",
+          "节日福利"
+        ],
+        "industry": 100020,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 271,
+    "brandCard": null
+  }
+}
