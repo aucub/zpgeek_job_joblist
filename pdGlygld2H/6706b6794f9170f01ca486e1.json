@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "pdGlygld2H",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "pMmjoqFiluNwA-c1-eVub_3XmC6Y8ZTwboFeWYb9Z4Q0lc1Dch8ANlaL_TjZrPnItxXrMBzRTqnbtYXGh5XyEYB1kwV7B5B0GitZllkspfo08kMMRM0~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230412/607f1f3d68754fd006a31069df94388c90aba14d24ca62854415a504e36e6a9d4f31df9c75578eeb_s.png",
+        "bossCert": 3,
+        "encryptBossId": "1418f72d4dc7618a0nJz0tS-EFFY",
+        "bossName": "黄女士",
+        "bossTitle": "人事行政助理",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "e5c3704fad7aaf6d1HZ93t-5EVNU",
+        "expectId": 0,
+        "jobName": "系统软件实施培训生",
+        "lid": "pdGlygld2H.search.1",
+        "salaryDesc": "2-4K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业",
+          "软件实施经验"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "广州",
+        "areaDistrict": "天河区",
+        "businessDistrict": "天平架",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101280100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": null,
+        "encryptBrandId": "0b2885eaace77eed1nFz09q4GQ~~",
+        "brandName": "得一信息",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220617/7bf6f160950405e9a8cb9bf4b3b1b3cf5f1e93a60270b68bc45162b021d8c2bc3c31dbeb26625145.jpg",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "0-20人",
+        "welfareList": [
+          "餐补",
+          "交通补助",
+          "零食下午茶",
+          "五险一金",
+          "带薪年假"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
