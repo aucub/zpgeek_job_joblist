@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1eVFSO9lVpK",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "-jFRYPdvB2dBp-k1GKcob6fVwubYUTl92Epjbb12R0iRFik8fZ99LGHAH5pBuoEPcDJVpyJYinML24lzY5FZk3CSLvV8rCyqrsYv-UCQlFaokiAy",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230109/607f1f3d68754fd04f2718cb4ae85fefedde352e0a9158ff1c061769db6512946ca38c0f5d0bbd45_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "9bf6e98a1fd85e8803B92tS7E1E~",
+        "bossName": "张女士",
+        "bossTitle": "招聘顾问",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "97856fd41070079a1H162N6-FlpZ",
+        "expectId": 0,
+        "jobName": "大厂测试实习生（要求可实习一年）",
+        "lid": "1eVFSO9lVpK.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "功能测试",
+          "计算机相关专业",
+          "测试工作经验",
+          "北京城市学院",
+          "北方工业大学",
+          "北京信息科技大学"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "北京",
+        "areaDistrict": "海淀区",
+        "businessDistrict": "西北旺",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101010100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 116.27537,
+          "latitude": 40.044437
+        },
+        "encryptBrandId": "e715aa1be4283fc21nd62tq5",
+        "brandName": "博彦科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eb7c416aa1c228b43cbae35dbf1e6990cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "10000人以上",
+        "welfareList": [
+          "五险一金",
+          "节日福利",
+          "免费班车",
+          "带薪年假",
+          "年终奖",
+          "定期体检"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
