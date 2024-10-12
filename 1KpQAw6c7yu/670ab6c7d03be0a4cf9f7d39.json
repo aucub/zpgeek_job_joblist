@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1KpQAw6c7yu",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "oKpsJkIEjIZMR-x14lUnKOjJdHcDYQIbkWey8W4PvHHjNEO_g6Q1mYKpM_9zqrtSGQr4APiK5Cpk5QzTrXntgeJCdP9r4tiEYjsTIlIlkk7vk0DY",
+        "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+        "bossCert": 3,
+        "encryptBossId": "7a447d5fc337a5cd0XNy39u1ElM~",
+        "bossName": "罗女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "fd21c6fc1c9e54f81HZ429y8FFZZ",
+        "expectId": 0,
+        "jobName": "实施交付实习生",
+        "lid": "1KpQAw6c7yu.search.1",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "上海",
+        "areaDistrict": "闵行区",
+        "businessDistrict": "浦江",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101020100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 121.519554,
+          "latitude": 31.077638
+        },
+        "encryptBrandId": "091129815dc444bc1nR429u-",
+        "brandName": "万达信息",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160508/e8f5758fd2eb57b0f23610ac79217097d6084986872ea1902382dda1d0aef4cc.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "年终奖",
+          "带薪年假",
+          "免费班车",
+          "股票期权",
+          "五险一金",
+          "节日福利",
+          "定期体检",
+          "通讯补贴"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

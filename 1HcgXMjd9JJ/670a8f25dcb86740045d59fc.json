@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "1HcgXMjd9JJ",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "s5y8O7hvFY6Z9-H1y4hzT-7Kw_LUa8H_zzO3huB1oEhVH4DBvi84LPld1lVQk8peok6VEHu9YJB-HUa5O6lIkehFX2QodBgYpUUp4uE4bo8IaXA~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240604/607f1f3d68754fd034c26bdbd83a8106417890fda6336a66c7124e61c860eb26ad9081e2dac6fedf_s.jpg.webp",
+        "bossCert": 3,
+        "encryptBossId": "8ab8660347704c5a0HR63du0FA~~",
+        "bossName": "王女士",
+        "bossTitle": "HRBP",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "34aab282b7840ff01HN62921FFtY",
+        "expectId": 0,
+        "jobName": "实施工程师",
+        "lid": "1HcgXMjd9JJ.search.1",
+        "salaryDesc": "7-12K·15薪",
+        "jobLabels": [
+          "经验不限",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业",
+          "软件实施经验",
+          "可适应出差"
+        ],
+        "jobExperience": "经验不限",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "长沙",
+        "areaDistrict": "岳麓区",
+        "businessDistrict": "望岳",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101250100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 112.935485,
+          "latitude": 28.207359
+        },
+        "encryptBrandId": "4094c3f06bfd243a1nV52N28",
+        "brandName": "来也科技",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160423/f47c10fce6da9bdecd138dd8ba19e1fcf710d62874345ad8c0fbd01f4e41b627.jpg",
+        "brandStageName": "C轮",
+        "brandIndustry": "企业服务",
+        "brandScaleName": "500-999人",
+        "welfareList": [
+          "节日福利",
+          "零食下午茶",
+          "定期体检",
+          "股票期权",
+          "五险一金",
+          "带薪年假",
+          "补充医疗保险",
+          "年终奖"
+        ],
+        "industry": 100015,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 31,
+    "filterString": "",
+    "lid": "1GUE1t3nlxC",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "iTiMQaEPxshbv--1jPcr1Pfp2v05tFyDUxjryOGKyOUqQPmfv44054GL5H9EDDyTAczWSHdt7kx0NwrSI-o6p91AFoGYF1HyNHAYU38gd-jextDaiXBWJIiI685Dbobvo7zsjOLzbv9Ms14~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230523/607f1f3d68754fd06ae7952eeedd6d831cc33c20fb273899982617d668e716878aefa9425fcfff4f_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "a1a9d240465608df0n1z39u8EVdY",
+        "bossName": "钟女士",
+        "bossTitle": "HR",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "2142f6de7d2e38dd1HR_2ti8EFNQ",
+        "expectId": 1014042683,
+        "jobName": "测试开发工程师",
+        "lid": "1GUE1t3nlxC.search.31",
+        "salaryDesc": "2-3K",
+        "jobLabels": [
+          "在校/应届",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Java",
+          "C++",
+          "Python",
+          "计算机相关专业"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "杭州",
+        "areaDistrict": "余杭区",
+        "businessDistrict": "仓前",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 31,
+        "city": 101210100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 119.9646,
+          "latitude": 30.262188
+        },
+        "encryptBrandId": "027bd4e452eba8741XR43d27GFA~",
+        "brandName": "菜鸟传橙",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230925/7b5b554d84f9729cec295008a792b6a5509687fb9443755712ae4f39efbf9947d3380f5010cadf28.jpg.webp",
+        "brandStageName": "不需要融资",
+        "brandIndustry": "装卸搬运和仓储业",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "节日福利",
+          "绩效奖金",
+          "加班补助",
+          "团建聚餐",
+          "法定节假日三薪",
+          "补充医疗保险",
+          "节假日加班费",
+          "五险一金",
+          "工龄奖",
+          "意外险",
+          "全勤奖",
+          "带薪年假",
+          "底薪加提成",
+          "生日福利"
+        ],
+        "industry": 100510,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 31,
+    "brandCard": null
+  }
+}
