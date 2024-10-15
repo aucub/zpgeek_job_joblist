@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "2XHjbWcUGBb",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "C5LOlDLHYw9oj-016RaZZ9NK-OjlGalaqzhJs3r5U_3DpKgVxNd1ge8Y5KAuFCAHr6ydjVcUH1hvg7ai-nEKYra8cIg-ETegzTnpbTeXFEqEE6QI4A~~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240403/607f1f3d68754fd0f525dca2015b29062176e8b70bd5f8593dd3b2efcd9ac7016fe7b00bceebe88c_s.jpg.webp",
+        "bossCert": 3,
+        "encryptBossId": "af502c428e8f31380nJ93927Eg~~",
+        "bossName": "丁先生",
+        "bossTitle": "销售总监",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "d2ebf31f87f14a311HJz3Ny1E1BT",
+        "expectId": 0,
+        "jobName": "实施工程师",
+        "lid": "2XHjbWcUGBb.search.1",
+        "salaryDesc": "4-6K",
+        "jobLabels": [
+          "在校/应届",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "Sql",
+          "linux",
+          "计算机专业"
+        ],
+        "jobExperience": "在校/应届",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "苏州",
+        "areaDistrict": "苏州工业园区",
+        "businessDistrict": "独墅湖",
+        "jobType": 5,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101190400,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 120.737184,
+          "latitude": 31.265551
+        },
+        "encryptBrandId": "48c7006a1e0263941XB42tu6F1s~",
+        "brandName": "秒策数据",
+        "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230211/7b5b554d84f9729cf494d125a2d42fbcb415c0a623da03623dd3b2efcd9ac7016fe7b00bceebe88c.jpg",
+        "brandStageName": "未融资",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "0-20人",
+        "welfareList": [
+          "五险一金",
+          "加班补助",
+          "出差补贴",
+          "定期体检",
+          "交通补助",
+          "节日福利"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}

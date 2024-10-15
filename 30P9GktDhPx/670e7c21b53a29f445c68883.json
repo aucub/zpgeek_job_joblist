@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "30P9GktDhPx",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "NrML46rBNOOP2-G1qpl46dSXtKOt27oNPOOgjrRhKDax-VyG06fTwmQnXRICKEGkvPtK2hj8J13Ky3DbKrF8DuU-VPGE1xKPZZ_wvBsXzb_r5odWlw~~",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210325/386a6ba721d20fba9bdc8e533cad338efca7caf1d5e58bb1d40a32a6933eaa0c_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "fdc39eeac6650de41nR53d64FVtY",
+        "bossName": "黄女士",
+        "bossTitle": "高级招聘主管",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "48a7e8ab7ac4eeb91HNz2dy-F1dY",
+        "expectId": 0,
+        "jobName": "软件实施工程师（实习生）(J10564)",
+        "lid": "30P9GktDhPx.search.1",
+        "salaryDesc": "2-4K",
+        "jobLabels": [
+          "1年以内",
+          "本科"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "计算机相关专业",
+          "可适应出差"
+        ],
+        "jobExperience": "1年以内",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "本科",
+        "cityName": "成都",
+        "areaDistrict": "武侯区",
+        "businessDistrict": "中和",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101270100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 104.068037,
+          "latitude": 30.552405
+        },
+        "encryptBrandId": "ae59a11347408db51Xxy2ty_",
+        "brandName": "南威软件",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/d9f678f7de26f27f78fd53a75b123f89cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "年终奖",
+          "员工旅游",
+          "生日福利",
+          "带薪年假",
+          "节日福利",
+          "餐补",
+          "定期体检",
+          "通讯补贴",
+          "交通补助",
+          "零食下午茶",
+          "五险一金"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
