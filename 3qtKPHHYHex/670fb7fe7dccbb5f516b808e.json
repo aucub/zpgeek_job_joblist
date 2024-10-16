@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "resCount": 1,
+    "filterString": "",
+    "lid": "3qtKPHHYHex",
+    "hasMore": false,
+    "jobList": [
+      {
+        "securityId": "bpekCE3x3pfXO-n1_4SEORBGK6N_XGWYBYFgcheWLRDgiMtwCwIQgSEDv___zi39vbVdXR7W1qxtVijk2SYZ6pa3oYbeAzDZcd6729EaIyFazzgb",
+        "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201102/c0f03b61a9026b184c1499a387d65905ffba9755de3e704f7c48a2bc42df4cc5_s.jpg",
+        "bossCert": 3,
+        "encryptBossId": "0704cc3e49c5ab871nR_2ti1GVVV",
+        "bossName": "黄女士",
+        "bossTitle": "HRM",
+        "goldHunter": 0,
+        "bossOnline": false,
+        "encryptJobId": "06931036945e8c841Xdy09y-F1JW",
+        "expectId": 0,
+        "jobName": "实施工程师",
+        "lid": "3qtKPHHYHex.search.1",
+        "salaryDesc": "4-8K·14薪",
+        "jobLabels": [
+          "1-3年",
+          "大专"
+        ],
+        "jobValidStatus": 1,
+        "iconWord": "",
+        "skills": [
+          "实施工程师/顾问",
+          "MySQL",
+          "信息化",
+          "硬件",
+          "管理系统",
+          "IT服务",
+          "ERP",
+          "SaaS"
+        ],
+        "jobExperience": "1-3年",
+        "daysPerWeekDesc": "",
+        "leastMonthDesc": "",
+        "jobDegree": "大专",
+        "cityName": "武汉",
+        "areaDistrict": "江岸区",
+        "businessDistrict": "堤角",
+        "jobType": 0,
+        "proxyJob": 0,
+        "proxyType": 0,
+        "anonymous": 0,
+        "outland": 0,
+        "optimal": 0,
+        "iconFlagList": [],
+        "itemId": 1,
+        "city": 101200100,
+        "isShield": 0,
+        "atsDirectPost": false,
+        "gps": {
+          "longitude": 114.333073,
+          "latitude": 30.664748
+        },
+        "encryptBrandId": "8d038826246b5fb31nV83d4~",
+        "brandName": "泛微网络",
+        "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/edc62c90326b3e9fb3638ee874f5ba44cfcd208495d565ef66e7dff9f98764da.jpg",
+        "brandStageName": "已上市",
+        "brandIndustry": "计算机软件",
+        "brandScaleName": "1000-9999人",
+        "welfareList": [
+          "员工旅游",
+          "五险一金",
+          "免费班车",
+          "包吃",
+          "年终奖",
+          "零食下午茶",
+          "带薪年假",
+          "餐补",
+          "股票期权",
+          "通讯补贴",
+          "交通补助",
+          "节日福利",
+          "定期体检"
+        ],
+        "industry": 100021,
+        "contact": false,
+        "showTopPosition": false
+      }
+    ],
+    "totalCount": 1,
+    "brandCard": null
+  }
+}
